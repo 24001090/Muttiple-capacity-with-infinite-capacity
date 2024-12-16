@@ -31,6 +31,7 @@ NAME-POOJA PRIYA.B
 REG NO-24001090
 
 
+
 ```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
